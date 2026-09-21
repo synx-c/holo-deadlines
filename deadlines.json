@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T12:14:00+09:00",
+  "updatedAt": "2026-09-22T00:01:46+09:00",
   "items": [
     {
       "id": "wachawacha-payment-20260922",
@@ -11,6 +11,26 @@
       "deadline": "2026-09-22T21:00:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://hololive.hololivepro.com/news/20260815-01-399/"
+    },
+    {
+      "id": "nepox-day1-general-20260926",
+      "title": "ねぽっくす！ ～ねぽらぼ×秘密結社holoX～ DAY1 一般発売",
+      "audience": ["こより", "いろは"],
+      "kind": "TICKET",
+      "start": "2026-07-04T10:00:00+09:00",
+      "deadline": "2026-09-26T17:00:00+09:00",
+      "generalSaleTicket": true,
+      "sourceUrl": "https://eplus.jp/sf/detail/4536190001"
+    },
+    {
+      "id": "nepox-day2-general-20260927",
+      "title": "ねぽっくす！ ～ねぽらぼ×秘密結社holoX～ DAY2 一般発売",
+      "audience": ["こより", "いろは"],
+      "kind": "TICKET",
+      "start": "2026-07-04T10:00:00+09:00",
+      "deadline": "2026-09-27T16:00:00+09:00",
+      "generalSaleTicket": true,
+      "sourceUrl": "https://eplus.jp/sf/detail/4536190001"
     },
     {
       "id": "wachawacha-goods-20260928",
