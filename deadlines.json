@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T00:01:46+09:00",
+  "updatedAt": "2026-09-23T00:00:00+09:00",
   "items": [
     {
-      "id": "wachawacha-payment-20260922",
-      "title": "ホロライブわちゃわちゃ学園祭 先行通販",
-      "audience": ["こより"],
-      "kind": "PAYMENT",
-      "start": "2026-09-18T13:00:00+09:00",
-      "deadline": "2026-09-22T21:00:00+09:00",
+      "id": "hololive-9th-voice-campaign-20260924",
+      "title": "ホロライブプロダクション9周年記念 ボイス9%OFFキャンペーン",
+      "audience": ["全体"],
+      "kind": "GOODS",
+      "start": "2026-09-01T12:00:00+09:00",
+      "deadline": "2026-09-24T23:59:00+09:00",
       "generalSaleTicket": false,
-      "sourceUrl": "https://hololive.hololivepro.com/news/20260815-01-399/"
+      "sourceUrl": "https://shop.hololivepro.com/blogs/news/hololivean9th_campaign"
     },
     {
       "id": "nepox-day1-general-20260926",
@@ -61,6 +61,16 @@
       "deadline": "2026-09-28T18:00:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://shop.hololivepro.com/products/hololiverecords_historycollection_secondaryorder"
+    },
+    {
+      "id": "holodori-megasphere-goods-20260928",
+      "title": "hololive Dreams 公式グッズ〈メガスフィア〉",
+      "audience": ["全体"],
+      "kind": "GOODS",
+      "start": "2026-08-24T22:30:00+09:00",
+      "deadline": "2026-09-28T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://shop.hololivepro.com/products/holodori_miniholomem_acrylicstand_megasphere"
     },
     {
       "id": "tokinosora-everyday-of-light-goods-20260928",
@@ -151,6 +161,56 @@
       "deadline": "2026-10-19T18:00:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://shop.hololivepro.com/products/aziro_commemorativemerch"
+    },
+    {
+      "id": "joypolis-koyori-kansai-resale-20261103",
+      "title": "ホロライブ×ジョイポリス SHINY PARTY 関西会場 博衣こより ホロ×マッチ リセール",
+      "audience": ["こより"],
+      "kind": "APPLICATION",
+      "start": "2026-10-15T10:00:00+09:00",
+      "deadline": "2026-11-03T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "joypolis-iroha-kansai-resale-20261110",
+      "title": "ホロライブ×ジョイポリス SHINY PARTY 関西会場 風真いろは ホロ×マッチ リセール",
+      "audience": ["いろは"],
+      "kind": "APPLICATION",
+      "start": "2026-10-15T10:00:00+09:00",
+      "deadline": "2026-11-10T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "blooming-dreams-streaming-20261115",
+      "title": "Blooming Dreams 配信チケット",
+      "audience": ["全体"],
+      "kind": "TICKET",
+      "start": "2026-08-18T19:00:00+09:00",
+      "deadline": "2026-11-15T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://www.hololive-dreams.com/event/holohanabi2026"
+    },
+    {
+      "id": "joypolis-koyori-tokyo-resale-20261117",
+      "title": "ホロライブ×ジョイポリス SHINY PARTY 東京会場 博衣こより ホロ×マッチ リセール",
+      "audience": ["こより"],
+      "kind": "APPLICATION",
+      "start": "2026-10-22T10:00:00+09:00",
+      "deadline": "2026-11-17T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "joypolis-iroha-tokyo-resale-20261208",
+      "title": "ホロライブ×ジョイポリス SHINY PARTY 東京会場 風真いろは ホロ×マッチ リセール",
+      "audience": ["いろは"],
+      "kind": "APPLICATION",
+      "start": "2026-11-12T10:00:00+09:00",
+      "deadline": "2026-12-08T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
     }
   ]
 }
