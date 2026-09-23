@@ -1,17 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T00:00:00+09:00",
+  "updatedAt": "2026-09-24T00:00:00+09:00",
   "items": [
-    {
-      "id": "hololive-9th-voice-campaign-20260924",
-      "title": "ホロライブプロダクション9周年記念 ボイス9%OFFキャンペーン",
-      "audience": ["全体"],
-      "kind": "GOODS",
-      "start": "2026-09-01T12:00:00+09:00",
-      "deadline": "2026-09-24T23:59:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/blogs/news/hololivean9th_campaign"
-    },
     {
       "id": "nepox-day1-general-20260926",
       "title": "ねぽっくす！ ～ねぽらぼ×秘密結社holoX～ DAY1 一般発売",
@@ -131,6 +121,16 @@
       "deadline": "2026-10-09T23:59:00+09:00",
       "generalSaleTicket": true,
       "sourceUrl": "https://hololive-grandreception.hololivepro.com/ticket/"
+    },
+    {
+      "id": "grand-reception-sign-simulation-general-20261009",
+      "title": "hololive Grand Reception hololive Sign Simulation 一般販売",
+      "audience": ["全体"],
+      "kind": "TICKET",
+      "start": "2026-09-26T10:00:00+09:00",
+      "deadline": "2026-10-09T23:59:00+09:00",
+      "generalSaleTicket": true,
+      "sourceUrl": "https://hololive.hololivepro.com/news/20260821-01-404/"
     },
     {
       "id": "grand-reception-same-day-20261010",
