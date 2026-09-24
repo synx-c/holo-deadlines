@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T00:00:00+09:00",
+  "updatedAt": "2026-09-25T00:00:55+09:00",
   "items": [
     {
       "id": "nepox-day1-general-20260926",
@@ -21,6 +21,16 @@
       "deadline": "2026-09-27T16:00:00+09:00",
       "generalSaleTicket": true,
       "sourceUrl": "https://eplus.jp/sf/detail/4536190001"
+    },
+    {
+      "id": "pokerchase-koyori-follow-repost-20260928",
+      "title": "『ポーカーチェイス』×博衣こより コラボ開催記念フォロー&リポストキャンペーン",
+      "audience": ["こより"],
+      "kind": "APPLICATION",
+      "start": "2026-09-23T18:00:00+09:00",
+      "deadline": "2026-09-28T11:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000188.000045762.html"
     },
     {
       "id": "wachawacha-goods-20260928",
