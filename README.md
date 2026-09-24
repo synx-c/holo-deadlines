@@ -46,10 +46,14 @@ A scheduled ChatGPT task may update this repository using only publicly accessib
 When updating:
 
 1. Prefer official Hololive, official talent/event sites, official shops, and official ticket/event pages.
-2. Do not add inferred dates when an authoritative source does not state them.
-3. Preserve a source URL for every item.
-4. Correct an existing item when an official source changes its dates.
-5. Remove expired entries after their deadline has passed.
-6. Never store credentials, private schedules, device data, location data, account identifiers, or other non-public personal information.
+2. Also check the following unofficial reference sites to discover potentially missing merchandise, events, campaigns, and deadlines:
+   - ホロライブ グッズ情報（非公式）（@hololive_goods）: https://x.com/hololive_goods
+   - ホロライブ グッズ情報まとめ: https://merch-matome.com/
+3. Treat unofficial reference sites as discovery aids only. Verify dates and details against an official Hololive/talent/event/shop/ticket source before adding or changing an entry whenever an official source is available.
+4. Do not add inferred dates when an authoritative source does not state them.
+5. Preserve a public source URL for every item.
+6. Correct an existing item when an official source changes its dates.
+7. Remove expired entries after their deadline has passed.
+8. Never store credentials, private schedules, device data, location data, account identifiers, or other non-public personal information.
 
 The Echo Clock Android app reads this file directly and checks the public feed every 30 minutes. It also retains its existing local official-site collection as a fallback.
