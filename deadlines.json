@@ -1,19 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T06:47:10.466+09:00",
+  "updatedAt": "2026-10-13T06:47:30.413+09:00",
   "items": [
-    {
-      "id": "bloomingparade-miko-goods-20261013",
-      "title": "さくらみこ 2nd Live “Blooming Parade!!” 受注生産グッズ",
-      "audience": [
-        "全体"
-      ],
-      "kind": "GOODS",
-      "start": "2026-09-15T20:00:00+09:00",
-      "deadline": "2026-10-13T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/sakuramiko_2ndlive_bloomingparade_madetoorder"
-    },
     {
       "id": "hololivepanic-goods-20261013",
       "title": "ホロライブパニック グッズ 受注締切",
