@@ -1,161 +1,37 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T00:00:55+09:00",
+  "updatedAt": "2026-10-13T06:47:10.466+09:00",
   "items": [
     {
-      "id": "nepox-day1-general-20260926",
-      "title": "ねぽっくす！ ～ねぽらぼ×秘密結社holoX～ DAY1 一般発売",
-      "audience": ["こより", "いろは"],
-      "kind": "TICKET",
-      "start": "2026-07-04T10:00:00+09:00",
-      "deadline": "2026-09-26T17:00:00+09:00",
-      "generalSaleTicket": true,
-      "sourceUrl": "https://eplus.jp/sf/detail/4536190001"
-    },
-    {
-      "id": "nepox-day2-general-20260927",
-      "title": "ねぽっくす！ ～ねぽらぼ×秘密結社holoX～ DAY2 一般発売",
-      "audience": ["こより", "いろは"],
-      "kind": "TICKET",
-      "start": "2026-07-04T10:00:00+09:00",
-      "deadline": "2026-09-27T16:00:00+09:00",
-      "generalSaleTicket": true,
-      "sourceUrl": "https://eplus.jp/sf/detail/4536190001"
-    },
-    {
-      "id": "pokerchase-koyori-follow-repost-20260928",
-      "title": "『ポーカーチェイス』×博衣こより コラボ開催記念フォロー&リポストキャンペーン",
-      "audience": ["こより"],
-      "kind": "APPLICATION",
-      "start": "2026-09-23T18:00:00+09:00",
-      "deadline": "2026-09-28T11:59:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000188.000045762.html"
-    },
-    {
-      "id": "wachawacha-goods-20260928",
-      "title": "ホロライブわちゃわちゃ学園祭 先行通販",
-      "audience": ["こより"],
+      "id": "bloomingparade-miko-goods-20261013",
+      "title": "さくらみこ 2nd Live “Blooming Parade!!” 受注生産グッズ",
+      "audience": [
+        "全体"
+      ],
       "kind": "GOODS",
-      "start": "2026-09-19T12:00:00+09:00",
-      "deadline": "2026-09-28T18:00:00+09:00",
+      "start": "2026-09-15T20:00:00+09:00",
+      "deadline": "2026-10-13T18:00:00+09:00",
       "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hololive_wachawachahighschoolfestival_advancedshipping_set"
+      "sourceUrl": "https://shop.hololivepro.com/products/sakuramiko_2ndlive_bloomingparade_madetoorder"
     },
     {
-      "id": "splash-t-party-20260928",
-      "title": "hololive Splash T-Party!",
-      "audience": ["全体"],
+      "id": "hololivepanic-goods-20261013",
+      "title": "ホロライブパニック グッズ 受注締切",
+      "audience": [
+        "こより"
+      ],
       "kind": "GOODS",
-      "start": "2026-09-01T18:00:00+09:00",
-      "deadline": "2026-09-28T18:00:00+09:00",
+      "start": "2026-09-28T18:00:00+09:00",
+      "deadline": "2026-10-13T18:00:00+09:00",
       "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hololive_hololivesplashtparty_charafinepanel"
-    },
-    {
-      "id": "history-collection-secondary-20260928",
-      "title": "【2次販売】【シリアルコードデジタル配布】hololive RECORDS HISTORY COLLECTION",
-      "audience": ["全体"],
-      "kind": "GOODS",
-      "start": "2026-08-14T13:00:00+09:00",
-      "deadline": "2026-09-28T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hololiverecords_historycollection_secondaryorder"
-    },
-    {
-      "id": "holodori-megasphere-goods-20260928",
-      "title": "hololive Dreams 公式グッズ〈メガスフィア〉",
-      "audience": ["全体"],
-      "kind": "GOODS",
-      "start": "2026-08-24T22:30:00+09:00",
-      "deadline": "2026-09-28T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/holodori_miniholomem_acrylicstand_megasphere"
-    },
-    {
-      "id": "tokinosora-everyday-of-light-goods-20260928",
-      "title": "ときのそら 9th Anniversary Party「Everyday of Light」ライブグッズ",
-      "audience": ["そら"],
-      "kind": "GOODS",
-      "start": "2026-09-14T21:00:00+09:00",
-      "deadline": "2026-09-28T23:59:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://tokinosora-live.com/sorapa2026-pia-arena-mm/"
-    },
-    {
-      "id": "koyori-chemical-spark-serial-20261005",
-      "title": "シリアル 博衣こより 2nd Album『Chemical Spark』完全生産限定盤",
-      "audience": ["こより"],
-      "kind": "APPLICATION",
-      "start": "2026-09-12T21:00:00+09:00",
-      "deadline": "2026-10-05T12:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hakuikoyori_2ndalbum_chemicalspark_limited"
-    },
-    {
-      "id": "hololive-production-9th-anniversary-20261005",
-      "title": "ホロライブプロダクション 9周年記念",
-      "audience": ["全体"],
-      "kind": "GOODS",
-      "start": "2026-09-07T21:40:00+09:00",
-      "deadline": "2026-10-05T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hololiveproduction_anniversary_9th"
-    },
-    {
-      "id": "hololive-7th-fes-bluray-20261005",
-      "title": "hololive 7th fes. Ridin' on Dreams Blu-ray",
-      "audience": ["全体"],
-      "kind": "GOODS",
-      "start": "2026-09-05T19:00:00+09:00",
-      "deadline": "2026-10-05T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hololive_7thfes_ridinondreams_bluray"
-    },
-    {
-      "id": "making-your-heart-race-photoprint-20261005",
-      "title": "ホロライブ ドキドキの極ボイス キービジュアルブロマイド",
-      "audience": ["こより"],
-      "kind": "GOODS",
-      "start": "2026-08-06T18:00:00+09:00",
-      "deadline": "2026-10-05T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hololive_makingyourheartracevoice_photoprint"
-    },
-    {
-      "id": "grand-reception-general-sale-20261009",
-      "title": "hololive Grand Reception ～感謝を込めた招待状～",
-      "audience": ["全体"],
-      "kind": "TICKET",
-      "start": "2026-09-19T10:00:00+09:00",
-      "deadline": "2026-10-09T23:59:00+09:00",
-      "generalSaleTicket": true,
-      "sourceUrl": "https://hololive-grandreception.hololivepro.com/ticket/"
-    },
-    {
-      "id": "grand-reception-sign-simulation-general-20261009",
-      "title": "hololive Grand Reception hololive Sign Simulation 一般販売",
-      "audience": ["全体"],
-      "kind": "TICKET",
-      "start": "2026-09-26T10:00:00+09:00",
-      "deadline": "2026-10-09T23:59:00+09:00",
-      "generalSaleTicket": true,
-      "sourceUrl": "https://hololive.hololivepro.com/news/20260821-01-404/"
-    },
-    {
-      "id": "grand-reception-same-day-20261010",
-      "title": "hololive Grand Reception ～感謝を込めた招待状～",
-      "audience": ["全体"],
-      "kind": "TICKET",
-      "start": "2026-10-10T00:00:00+09:00",
-      "deadline": "2026-10-10T07:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://hololive-grandreception.hololivepro.com/ticket/"
+      "sourceUrl": "https://shop.hololivepro.com/products/hololivepanic_merch"
     },
     {
       "id": "tokinosora-9th-anniversary-goods-20261013",
       "title": "ときのそら 活動9周年記念",
-      "audience": ["そら"],
+      "audience": [
+        "そら"
+      ],
       "kind": "GOODS",
       "start": "2026-09-07T21:40:00+09:00",
       "deadline": "2026-10-13T18:00:00+09:00",
@@ -163,9 +39,25 @@
       "sourceUrl": "https://shop.hololivepro.com/products/tokinosora_anniversary_9th"
     },
     {
+      "id": "blooming-dreams-general-20261015",
+      "title": "ホロ花火2026 Blooming Dreams 現地一般販売",
+      "audience": [
+        "こより",
+        "全体"
+      ],
+      "kind": "TICKET",
+      "start": "2026-10-10T10:00:00+09:00",
+      "deadline": "2026-10-15T16:00:00+09:00",
+      "generalSaleTicket": true,
+      "sourceUrl": "https://www.hololive-dreams.com/event/holohanabi2026/news/detail/l9osdwh7dg/"
+    },
+    {
       "id": "aziro-commemorative-merch-20261019",
       "title": "あずいろ記念グッズ",
-      "audience": ["AZKi", "いろは"],
+      "audience": [
+        "AZKi",
+        "いろは"
+      ],
       "kind": "GOODS",
       "start": "2026-09-17T20:00:00+09:00",
       "deadline": "2026-10-19T18:00:00+09:00",
@@ -173,9 +65,59 @@
       "sourceUrl": "https://shop.hololivepro.com/products/aziro_commemorativemerch"
     },
     {
+      "id": "koyori-dreamspark-1st-20261019",
+      "title": "博衣こより1st Live “Dream Spark” 1次先行（シリアル抽選）",
+      "audience": [
+        "こより"
+      ],
+      "kind": "APPLICATION",
+      "start": "2026-10-11T21:00:00+09:00",
+      "deadline": "2026-10-19T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://dream-spark.hololivepro.com/ticket/"
+    },
+    {
+      "id": "joypolis-koyori-hokkaido-resale-20261020",
+      "title": "ホロ×マッチ 北海道会場 博衣こより リセール",
+      "audience": [
+        "こより"
+      ],
+      "kind": "APPLICATION",
+      "start": "2026-10-01T10:00:00+09:00",
+      "deadline": "2026-10-20T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "koyori-dreamspark-1st-payment-20261026",
+      "title": "博衣こより1st Live “Dream Spark” 1次先行 当選入金期限",
+      "audience": [
+        "こより"
+      ],
+      "kind": "APPLICATION",
+      "start": "2026-10-23T15:00:00+09:00",
+      "deadline": "2026-10-26T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://dream-spark.hololivepro.com/ticket/"
+    },
+    {
+      "id": "joypolis-iroha-hokkaido-resale-20261027",
+      "title": "ホロ×マッチ 北海道会場 風真いろは リセール",
+      "audience": [
+        "いろは"
+      ],
+      "kind": "APPLICATION",
+      "start": "2026-10-01T10:00:00+09:00",
+      "deadline": "2026-10-27T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
       "id": "joypolis-koyori-kansai-resale-20261103",
       "title": "ホロライブ×ジョイポリス SHINY PARTY 関西会場 博衣こより ホロ×マッチ リセール",
-      "audience": ["こより"],
+      "audience": [
+        "こより"
+      ],
       "kind": "APPLICATION",
       "start": "2026-10-15T10:00:00+09:00",
       "deadline": "2026-11-03T23:59:00+09:00",
@@ -183,9 +125,23 @@
       "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
     },
     {
+      "id": "koyori-dreamspark-2nd-20261109",
+      "title": "博衣こより1st Live “Dream Spark” 2次先行（抽選）",
+      "audience": [
+        "こより"
+      ],
+      "kind": "APPLICATION",
+      "start": "2026-10-30T21:00:00+09:00",
+      "deadline": "2026-11-09T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://dream-spark.hololivepro.com/ticket/"
+    },
+    {
       "id": "joypolis-iroha-kansai-resale-20261110",
       "title": "ホロライブ×ジョイポリス SHINY PARTY 関西会場 風真いろは ホロ×マッチ リセール",
-      "audience": ["いろは"],
+      "audience": [
+        "いろは"
+      ],
       "kind": "APPLICATION",
       "start": "2026-10-15T10:00:00+09:00",
       "deadline": "2026-11-10T23:59:00+09:00",
@@ -195,7 +151,9 @@
     {
       "id": "blooming-dreams-streaming-20261115",
       "title": "Blooming Dreams 配信チケット",
-      "audience": ["全体"],
+      "audience": [
+        "全体"
+      ],
       "kind": "TICKET",
       "start": "2026-08-18T19:00:00+09:00",
       "deadline": "2026-11-15T18:00:00+09:00",
@@ -203,9 +161,47 @@
       "sourceUrl": "https://www.hololive-dreams.com/event/holohanabi2026"
     },
     {
+      "id": "hololive-whisper-october-calendar-20261116",
+      "title": "ホロライブ 日常ささやき『かまってちゃん』10月カレンダーブロマイド",
+      "audience": [
+        "全体"
+      ],
+      "kind": "GOODS",
+      "start": "2026-09-11T18:00:00+09:00",
+      "deadline": "2026-11-16T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://shop.hololivepro.com/products/hololive_tooclingy_octobercalendar"
+    },
+    {
+      "id": "koyori-dreamspark-goods-20261116",
+      "title": "博衣こより1st Live “Dream Spark” ライブグッズ（先行発送・受注生産）",
+      "audience": [
+        "こより"
+      ],
+      "kind": "GOODS",
+      "start": "2026-10-11T21:00:00+09:00",
+      "deadline": "2026-11-16T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://dream-spark.hololivepro.com/merch/"
+    },
+    {
+      "id": "koyori-dreamspark-2nd-payment-20261116",
+      "title": "博衣こより1st Live “Dream Spark” 2次先行 当選入金期限",
+      "audience": [
+        "こより"
+      ],
+      "kind": "APPLICATION",
+      "start": "2026-11-13T15:00:00+09:00",
+      "deadline": "2026-11-16T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://dream-spark.hololivepro.com/ticket/"
+    },
+    {
       "id": "joypolis-koyori-tokyo-resale-20261117",
       "title": "ホロライブ×ジョイポリス SHINY PARTY 東京会場 博衣こより ホロ×マッチ リセール",
-      "audience": ["こより"],
+      "audience": [
+        "こより"
+      ],
       "kind": "APPLICATION",
       "start": "2026-10-22T10:00:00+09:00",
       "deadline": "2026-11-17T23:59:00+09:00",
@@ -215,12 +211,50 @@
     {
       "id": "joypolis-iroha-tokyo-resale-20261208",
       "title": "ホロライブ×ジョイポリス SHINY PARTY 東京会場 風真いろは ホロ×マッチ リセール",
-      "audience": ["いろは"],
+      "audience": [
+        "いろは"
+      ],
       "kind": "APPLICATION",
       "start": "2026-11-12T10:00:00+09:00",
       "deadline": "2026-12-08T23:59:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "hololive-whisper-november-calendar-20261214",
+      "title": "ホロライブ 日常ささやき『密室』11月カレンダーブロマイド",
+      "audience": [
+        "全体"
+      ],
+      "kind": "GOODS",
+      "start": "2026-10-09T18:00:00+09:00",
+      "deadline": "2026-12-14T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://shop.hololivepro.com/products/hololive_secretspace_novembercalendar"
+    },
+    {
+      "id": "hololive-halloweenvoice2026-20270104",
+      "title": "ホロライブ ハロウィンボイス2026 〜7つの甘罪〜",
+      "audience": [
+        "全体"
+      ],
+      "kind": "GOODS",
+      "start": "2026-10-02T18:00:00+09:00",
+      "deadline": "2027-01-04T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://shop.hololivepro.com/products/hololive_halloween2026_sevensweetsins"
+    },
+    {
+      "id": "koyori-dreamspark-streaming-20270122",
+      "title": "博衣こより1st Live “Dream Spark” 配信チケット",
+      "audience": [
+        "こより"
+      ],
+      "kind": "TICKET",
+      "start": "2026-10-11T21:00:00+09:00",
+      "deadline": "2027-01-22T20:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://dream-spark.hololivepro.com/ticket/"
     }
   ]
 }
