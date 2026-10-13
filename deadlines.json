@@ -1,31 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T06:47:30.413+09:00",
+  "updatedAt": "2026-10-13T23:56:54.902+09:00",
   "items": [
-    {
-      "id": "hololivepanic-goods-20261013",
-      "title": "ホロライブパニック グッズ 受注締切",
-      "audience": [
-        "こより"
-      ],
-      "kind": "GOODS",
-      "start": "2026-09-28T18:00:00+09:00",
-      "deadline": "2026-10-13T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/hololivepanic_merch"
-    },
-    {
-      "id": "tokinosora-9th-anniversary-goods-20261013",
-      "title": "ときのそら 活動9周年記念",
-      "audience": [
-        "そら"
-      ],
-      "kind": "GOODS",
-      "start": "2026-09-07T21:40:00+09:00",
-      "deadline": "2026-10-13T18:00:00+09:00",
-      "generalSaleTicket": false,
-      "sourceUrl": "https://shop.hololivepro.com/products/tokinosora_anniversary_9th"
-    },
     {
       "id": "blooming-dreams-general-20261015",
       "title": "ホロ花火2026 Blooming Dreams 現地一般販売",
@@ -53,6 +29,18 @@
       "sourceUrl": "https://shop.hololivepro.com/products/aziro_commemorativemerch"
     },
     {
+      "id": "hololive-whisper-september-calendar-20261019",
+      "title": "ホロライブ 日常ささやき「キミを心配してくれる」9月カレンダーブロマイド",
+      "audience": [
+        "全体"
+      ],
+      "kind": "GOODS",
+      "start": "2026-08-18T18:00:00+09:00",
+      "deadline": "2026-10-19T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://shop.hololivepro.com/products/hololive_worriedaboutyou_septembercalendar"
+    },
+    {
       "id": "koyori-dreamspark-1st-20261019",
       "title": "博衣こより1st Live “Dream Spark” 1次先行（シリアル抽選）",
       "audience": [
@@ -77,12 +65,36 @@
       "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
     },
     {
+      "id": "tokinosora-check-manager-serial-20261025",
+      "title": "ときのそら「CHECK！」1日店長イベント 応募シリアル付通販注文締切",
+      "audience": [
+        "そら"
+      ],
+      "kind": "APPLICATION",
+      "start": null,
+      "deadline": "2026-10-25T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://www.jvcmusic.co.jp/-/News/A026407/178.html"
+    },
+    {
+      "id": "tokinosora-check-talk-serial-20261025",
+      "title": "ときのそら「CHECK！」オンラインお話し会 応募シリアル付通販注文締切",
+      "audience": [
+        "そら"
+      ],
+      "kind": "APPLICATION",
+      "start": null,
+      "deadline": "2026-10-25T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://www.jvcmusic.co.jp/-/News/A026407/179.html"
+    },
+    {
       "id": "koyori-dreamspark-1st-payment-20261026",
       "title": "博衣こより1st Live “Dream Spark” 1次先行 当選入金期限",
       "audience": [
         "こより"
       ],
-      "kind": "APPLICATION",
+      "kind": "PAYMENT",
       "start": "2026-10-23T15:00:00+09:00",
       "deadline": "2026-10-26T23:59:00+09:00",
       "generalSaleTicket": false,
@@ -99,6 +111,42 @@
       "deadline": "2026-10-27T23:59:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "hololive-puyoteto-grapht-20261029",
+      "title": "ホロライブぷよテト大会2026 × GRAPHT グッズ予約締切",
+      "audience": [
+        "こより"
+      ],
+      "kind": "GOODS",
+      "start": "2026-09-18T09:00:00+09:00",
+      "deadline": "2026-10-29T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://store.grapht.tokyo/products/tgr262"
+    },
+    {
+      "id": "tokinosora-check-manager-application-20261101",
+      "title": "ときのそら「CHECK！」AKIHABARAゲーマーズ本店1日店長 抽選応募締切",
+      "audience": [
+        "そら"
+      ],
+      "kind": "APPLICATION",
+      "start": null,
+      "deadline": "2026-11-01T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://www.jvcmusic.co.jp/-/News/A026407/178.html"
+    },
+    {
+      "id": "tokinosora-check-talk-application-20261101",
+      "title": "ときのそら「CHECK！」オンラインお話し会 抽選応募締切",
+      "audience": [
+        "そら"
+      ],
+      "kind": "APPLICATION",
+      "start": null,
+      "deadline": "2026-11-01T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://www.jvcmusic.co.jp/-/News/A026407/179.html"
     },
     {
       "id": "joypolis-koyori-kansai-resale-20261103",
@@ -135,6 +183,18 @@
       "deadline": "2026-11-10T23:59:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "koyori-dreamspark-flower-application-20261113",
+      "title": "博衣こより1st Live “Dream Spark” フラワースタンド応募締切",
+      "audience": [
+        "こより"
+      ],
+      "kind": "APPLICATION",
+      "start": null,
+      "deadline": "2026-11-13T12:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://dream-spark.hololivepro.com/information/"
     },
     {
       "id": "blooming-dreams-streaming-20261115",
@@ -178,7 +238,7 @@
       "audience": [
         "こより"
       ],
-      "kind": "APPLICATION",
+      "kind": "PAYMENT",
       "start": "2026-11-13T15:00:00+09:00",
       "deadline": "2026-11-16T23:59:00+09:00",
       "generalSaleTicket": false,
@@ -219,6 +279,19 @@
       "deadline": "2026-12-14T18:00:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://shop.hololivepro.com/products/hololive_secretspace_novembercalendar"
+    },
+    {
+      "id": "qtta-hololive-campaign-20261231",
+      "title": "MARUCHAN QTTA × ホロライブ コラボグッズ抽選応募締切",
+      "audience": [
+        "そら",
+        "いろは"
+      ],
+      "kind": "APPLICATION",
+      "start": "2026-10-01T00:00:00+09:00",
+      "deadline": "2026-12-31T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://www.maruchan.co.jp/news_topics/entry/2026/09/1000_1.html"
     },
     {
       "id": "hololive-halloweenvoice2026-20270104",
