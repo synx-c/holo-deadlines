@@ -1,7 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T06:46:48+09:00",
+  "updatedAt": "2026-11-25T08:28:47+09:00",
   "items": [
+    {
+      "id": "hololive-wachafes-streaming-goods-20261128",
+      "title": "「ホロライブわちゃわちゃ学園祭」グッズ付き配信チケット",
+      "audience": [
+        "全体"
+      ],
+      "kind": "TICKET",
+      "start": null,
+      "deadline": "2026-11-28T23:59:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://holo-wachafes.zaiko.io/ja/e/holo-gakuensai-2026"
+    },
     {
       "id": "hololive-expo-8thfes-1st-20261129",
       "title": "hololive SUPER EXPO 2027 / hololive 8th fes. Brand-New Fanfare 1次先行（FANCLUB先行・抽選）",
@@ -27,6 +39,18 @@
       "sourceUrl": "https://shop.hololivepro.com/products/hololive_holokatsu_forbusiness_vol2"
     },
     {
+      "id": "hololive-wachafes-goods-20261130",
+      "title": "「ホロライブわちゃわちゃ学園祭」グッズ事後通販",
+      "audience": [
+        "全体"
+      ],
+      "kind": "GOODS",
+      "start": "2026-11-18T18:00:00+09:00",
+      "deadline": "2026-11-30T18:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://stage-event.hololivepro.com/merch/"
+    },
+    {
       "id": "hololive-expo-8thfes-1st-payment-20261208",
       "title": "hololive SUPER EXPO 2027 / hololive 8th fes. 1次先行 当落確認・入金期間",
       "audience": [
@@ -49,6 +73,18 @@
       "deadline": "2026-12-08T23:59:00+09:00",
       "generalSaleTicket": false,
       "sourceUrl": "https://tokyo-joypolis.com/event/hololive_jp2026/index.html"
+    },
+    {
+      "id": "hololive-wachafes-streaming-20261213",
+      "title": "「ホロライブわちゃわちゃ学園祭」配信チケット",
+      "audience": [
+        "全体"
+      ],
+      "kind": "TICKET",
+      "start": null,
+      "deadline": "2026-12-13T21:00:00+09:00",
+      "generalSaleTicket": false,
+      "sourceUrl": "https://holo-wachafes.zaiko.io/ja/e/holo-gakuensai-2026"
     },
     {
       "id": "hololive-whisper-november-calendar-20261214",
